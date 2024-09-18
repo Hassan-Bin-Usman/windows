@@ -11,23 +11,6 @@ Welcome to the Windows 10 Emulator project! This web-based application emulates 
 - **Responsive Design:** The emulator is designed to work across different devices and screen sizes, ensuring a consistent experience.
 - **GitHub Integration:** The project is hosted on GitHub, where you can explore the code, contribute to development, and provide feedback.
 
-## Installation
-
-To get started with the Windows 10 Emulator, follow these steps:
-
-1. **Clone the Repository:**
-   ```bash
-   git clone https://github.com/your-username/windows-10-emulator.git
-   ```
-   
-2. **Navigate to the Project Directory:**
-   ```bash
-   cd windows-10-emulator
-   ```
-
-3. **Open the Emulator:**
-   Open `index.html` in your preferred web browser to start using the emulator.
-
 ## Usage
 
 Once you have the emulator running in your browser, you can interact with various features:
